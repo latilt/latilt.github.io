@@ -3,9 +3,11 @@ title: "AWS 기본 단어 정리"
 date: 2019-04-01 22:10:30 +0000
 categories: aws
 ---
-## AWS를 배우면서 기본적으로 알아둬야 할 단어들을 정리해두는 포스트.
+AWS를 배우면서 기본적으로 알아둬야 할 단어들을 정리해두는 포스트.
 
 AWS : Amazon Web Services. Xen 가상화 기술을 이용하여 아마존에서 제공하는 IT 인프라 서비스.
+
+IDC
 
 HVM : 하드웨어 가상화
 
@@ -35,7 +37,7 @@ S3 : Simple Storage Service. HTTP 프로토콜로 작동하는 인터넷 스토�
 
 CloudFront : AWS에서 제공하는 CDN 서비스.
 
-CDN : Contents Delivery Network. 오리진을 대신하여 엔드유저의 요청에 가까운 물리적 위치 및 네트워크에서 응답하여 서버의 트래픽 부하와 응답속도를 개선하는 서비스.
+CDN : Content Delivery Network. 오리진을 대신하여 엔드유저의 요청에 가까운 물리적 위치 및 네트워크에서 응답하여 서버의 트래픽 부하와 응답속도를 개선하는 서비스.
 
 RDS
 
